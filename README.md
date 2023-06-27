@@ -1,6 +1,6 @@
 # NYC_Airbnb_Market_2019
 
-In this project, I will utilize my abilities in data importing and cleansing to discover valuable information regarding the Airbnb industry in New York City in 2019 using **Python** and [Tableau Dashboard](https://public.tableau.com/app/profile/song.cang.nguyen/viz/NYC_Airbnb_Dashboard/Dashboard1).
+In this project, I will utilize my abilities in data importing, cleansing, and visualizing data to discover valuable information regarding the Airbnb industry in New York City in 2019 using **Python** and [Tableau Dashboard](https://public.tableau.com/app/profile/song.cang.nguyen/viz/NYC_Airbnb_Dashboard/Dashboard1).
 
 My task involves: 
 * Importing data from various file formats and merging them together to address inquiries related to the Airbnb market in New York.
