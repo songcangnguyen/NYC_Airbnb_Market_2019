@@ -1,4 +1,4 @@
-# NYC Airbnb Market in 2019
+# New York City Airbnb Market in 2019
 ![airbnb_logo_detail](https://github.com/songcangnguyen/NYC_Airbnb_Market_2019/assets/109171837/315fc669-750d-4d89-9bf8-afe6f3e5dc5b)
 
 Having traveled to NYC numerous times, I have had the pleasure of experiencing the Airbnb accommodations in this vibrant city. Each stay has added a unique charm to my exploration. Now, I'm eager to delve deeper into the fascinating world of the home-sharing industry and provide insightful answers to questions regarding Airbnb. 
