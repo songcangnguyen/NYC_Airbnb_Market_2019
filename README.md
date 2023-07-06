@@ -12,3 +12,4 @@ My goals is to answer business questions, which include:
 * How does average monthly price of an Airbnb listing compare to private rental market?
 * What is count of advertisements for private rooms?
 * How do prices of Airbnb listings compare among the five boroughs of New York City
+![Airbnb_dashboard](https://github.com/songcangnguyen/NYC_Airbnb_Market_2019/assets/109171837/defc57fc-523a-4018-996d-04a73a098665)
